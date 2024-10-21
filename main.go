@@ -12,9 +12,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/Telmate/proxmox-api-go/cli"
-	_ "github.com/Telmate/proxmox-api-go/cli/command/commands"
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/xrayj11/proxmox-api-go/cli"
+	_ "github.com/xrayj11/proxmox-api-go/cli/command/commands"
+	"github.com/xrayj11/proxmox-api-go/proxmox"
 
 	"github.com/joho/godotenv"
 )

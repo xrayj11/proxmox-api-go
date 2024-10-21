@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Telmate/proxmox-api-go/cli"
-	_ "github.com/Telmate/proxmox-api-go/cli/command/commands"
+	"github.com/xrayj11/proxmox-api-go/cli"
+	_ "github.com/xrayj11/proxmox-api-go/cli/command/commands"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

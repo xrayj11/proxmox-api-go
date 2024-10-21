@@ -2,7 +2,7 @@ package cli_node_test
 
 import (
 	"testing"
-	cliTest "github.com/Telmate/proxmox-api-go/test/cli"
+	cliTest "github.com/xrayj11/proxmox-api-go/test/cli"
 )
 
 func Test_List_Nodes(t *testing.T) {

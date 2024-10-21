@@ -6,10 +6,10 @@ import (
 	"net/netip"
 	"testing"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
-	"github.com/Telmate/proxmox-api-go/test/data/test_data_pool"
-	"github.com/Telmate/proxmox-api-go/test/data/test_data_qemu"
-	"github.com/Telmate/proxmox-api-go/test/data/test_data_tag"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/test/data/test_data_pool"
+	"github.com/xrayj11/proxmox-api-go/test/data/test_data_qemu"
+	"github.com/xrayj11/proxmox-api-go/test/data/test_data_tag"
 	"github.com/stretchr/testify/require"
 )
 

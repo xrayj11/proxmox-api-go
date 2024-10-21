@@ -3,7 +3,7 @@ package proxmox
 import (
 	"errors"
 
-	"github.com/Telmate/proxmox-api-go/internal/parse"
+	"github.com/xrayj11/proxmox-api-go/internal/parse"
 )
 
 type QemuMemory struct {

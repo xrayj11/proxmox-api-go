@@ -3,7 +3,7 @@ package api_test
 import (
 	"github.com/stretchr/testify/require"
 	"testing"
-	"github.com/Telmate/proxmox-api-go/test/api"
+	"github.com/xrayj11/proxmox-api-go/test/api"
 )
 
 func Test_List_Acme_Accounts(t *testing.T) {

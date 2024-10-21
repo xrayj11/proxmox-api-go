@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
 )
 
 // matrix of storage types and which content types they support.

@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
 )
 
 var regexMultipleNewlineEncoded = regexp.MustCompile(`(%0A)+`)

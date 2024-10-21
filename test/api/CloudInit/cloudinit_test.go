@@ -3,9 +3,9 @@ package api_test
 import (
 	"testing"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
-	pxapi "github.com/Telmate/proxmox-api-go/proxmox"
-	api_test "github.com/Telmate/proxmox-api-go/test/api"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
+	pxapi "github.com/xrayj11/proxmox-api-go/proxmox"
+	api_test "github.com/xrayj11/proxmox-api-go/test/api"
 	"github.com/stretchr/testify/require"
 )
 

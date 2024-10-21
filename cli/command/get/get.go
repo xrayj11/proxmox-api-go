@@ -1,8 +1,8 @@
 package get
 
 import (
-	"github.com/Telmate/proxmox-api-go/cli"
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/xrayj11/proxmox-api-go/cli"
+	"github.com/xrayj11/proxmox-api-go/proxmox"
 	"github.com/spf13/cobra"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
 	"github.com/stretchr/testify/require"
 )
 

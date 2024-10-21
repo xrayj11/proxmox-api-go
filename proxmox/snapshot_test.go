@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Telmate/proxmox-api-go/test/data/test_data_snapshot"
+	"github.com/xrayj11/proxmox-api-go/test/data/test_data_snapshot"
 	"github.com/stretchr/testify/require"
 )
 

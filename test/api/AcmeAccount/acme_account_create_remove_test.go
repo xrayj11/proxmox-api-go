@@ -6,8 +6,8 @@ import (
 	"github.com/stretchr/testify/require"
 
 	//	"os"
-	pxapi "github.com/Telmate/proxmox-api-go/proxmox"
-	api_test "github.com/Telmate/proxmox-api-go/test/api"
+	pxapi "github.com/xrayj11/proxmox-api-go/proxmox"
+	api_test "github.com/xrayj11/proxmox-api-go/test/api"
 )
 
 var account = `

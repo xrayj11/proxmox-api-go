@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/Telmate/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
 )
 
 func ListPools(c *Client) ([]PoolName, error) {

@@ -1,7 +1,7 @@
 package template
 
 import (
-	"github.com/Telmate/proxmox-api-go/cli/command/content"
+	"github.com/xrayj11/proxmox-api-go/cli/command/content"
 	"github.com/spf13/cobra"
 )
 

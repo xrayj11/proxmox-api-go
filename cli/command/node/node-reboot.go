@@ -1,7 +1,7 @@
 package node
 
 import (
-	"github.com/Telmate/proxmox-api-go/cli"
+	"github.com/xrayj11/proxmox-api-go/cli"
 	"github.com/spf13/cobra"
 )
 

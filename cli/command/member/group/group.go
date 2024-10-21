@@ -1,7 +1,7 @@
 package group
 
 import (
-	"github.com/Telmate/proxmox-api-go/cli/command/member"
+	"github.com/xrayj11/proxmox-api-go/cli/command/member"
 
 	"github.com/spf13/cobra"
 )

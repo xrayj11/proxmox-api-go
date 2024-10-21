@@ -3,10 +3,10 @@ package guest
 import (
 	"strconv"
 
-	"github.com/Telmate/proxmox-api-go/cli"
-	"github.com/Telmate/proxmox-api-go/cli/command/create"
-	"github.com/Telmate/proxmox-api-go/internal/util"
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/xrayj11/proxmox-api-go/cli"
+	"github.com/xrayj11/proxmox-api-go/cli/command/create"
+	"github.com/xrayj11/proxmox-api-go/internal/util"
+	"github.com/xrayj11/proxmox-api-go/proxmox"
 	"github.com/spf13/cobra"
 )
 
